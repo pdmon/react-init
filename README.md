@@ -1,4 +1,5 @@
 # react-init
 React Project setting
-npm install
+
+npm install /
 npm start
